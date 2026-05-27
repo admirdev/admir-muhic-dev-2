@@ -56,7 +56,6 @@ onMounted(() => {
 
 .masthead {
   min-height: 100vh;
-  background-color: $bg-gray;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
