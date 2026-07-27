@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="container my-5 shadow p-5 bg-white rounded border-top border-light-blue border-5"
-  >
+  <div class="container my-5 shadow p-5 bg-white rounded border-top border-light-blue border-5">
     <header class="row mb-5 pb-4 border-bottom">
       <div class="col-md-8">
         <h1 class="display-5 fw-bold text-dark text-uppercase mb-1">
@@ -12,22 +10,12 @@
       <div class="col-md-4 text-md-end pt-2">
         <div class="contact-list list-unstyled small">
           <div class="mb-1">
-            <i
-              class="bi bi-envelope-fill text-light-blue text-light-blue me-2"
-            ></i
-            ><a
-              href="mailto:admir@admirmuhic.se"
-              class="text-decoration-none text-reset"
-              >admir@admirmuhic.se</a
-            >
+            <i class="bi bi-envelope-fill text-light-blue text-light-blue me-2"></i><a href="mailto:admir@admirmuhic.se"
+              class="text-decoration-none text-reset">admir@admirmuhic.se</a>
           </div>
           <div>
-            <i class="bi bi-linkedin text-light-blue me-2"></i
-            ><a
-              href="https://linkedin.com/in/admir-muhić-a17b11109"
-              target="_blank"
-              class="text-decoration-none text-reset"
-            >
+            <i class="bi bi-linkedin text-light-blue me-2"></i><a href="https://linkedin.com/in/admir-muhić-a17b11109"
+              target="_blank" class="text-decoration-none text-reset">
               linkedin.com/in/admir-muhić-a17b11109
             </a>
           </div>
@@ -92,6 +80,25 @@
               <span class="badge border text-light-blue">Android SDK</span>
               <span class="badge border text-light-blue">Java</span>
               <span class="badge border text-light-blue">AngularJS</span>
+            </div>
+          </div>
+
+          <div class="experience-item mb-4">
+            <div class="d-flex justify-content-between align-items-baseline">
+              <h3 class="h5 fw-bold mb-0">Erisma Technologies</h3>
+              <span class="text-muted small">2016 - 2016</span>
+            </div>
+            <p class="text-light-blue small mb-2">Systemutvecklare</p>
+            <p class="text-muted small mb-2">
+              Programutveckling samt kundanpassning av arbetsordersystemet Mobigo.
+            </p>
+            <div class="d-flex flex-wrap gap-2">
+              <span class="badge border text-light-blue">JavaScript</span>
+              <span class="badge border text-light-blue">VBScript</span>
+              <span class="badge border text-light-blue">HTML5</span>
+              <span class="badge border text-light-blue">CSS</span>
+              <span class="badge border text-light-blue">C#</span>
+              <span class="badge border text-light-blue">SQL</span>
             </div>
           </div>
         </section>
