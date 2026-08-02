@@ -30,7 +30,7 @@
 
           <div class="experience-item mb-4">
             <div class="d-flex justify-content-between align-items-baseline">
-              <h3 class="h5 fw-bold mb-0">itm8 Sverige AB</h3>
+              <h3 class="h5 fw-bold mb-0">itm8 Sverige</h3>
               <span class="text-muted small">2020 - Nu</span>
             </div>
             <p class="text-light-blue small mb-2">Systemutvecklare</p>
@@ -68,7 +68,7 @@
 
           <div class="experience-item mb-4">
             <div class="d-flex justify-content-between align-items-baseline">
-              <h3 class="h5 fw-bold mb-0">Appcorn AB</h3>
+              <h3 class="h5 fw-bold mb-0">Appcorn</h3>
               <span class="text-muted small">2017 - 2017</span>
             </div>
             <p class="text-light-blue small mb-2">Systemutvecklare</p>

@@ -33,7 +33,7 @@
       <div
         class="d-flex justify-content-center justify-content-xxl-end mt-5 mt-xxl-0"
       >
-        <div class="bg-light rounded-5 p-2">
+        <div class="rounded-5 p-2">
           <img
             class="img-fluid"
             src="@/assets/profile.png"
