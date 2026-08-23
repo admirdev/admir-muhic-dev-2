@@ -1,22 +1,12 @@
 <template>
-  <nav
-    class="navbar navbar-expand-lg sticky-top navbar-light bg-white py-3 shadow-sm"
-    id="mainNav"
-  >
+  <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-white py-3 shadow-sm" id="mainNav">
     <div class="container">
       <router-link class="navbar-brand fw-bold" to="/">
         admirmuhic.se
       </router-link>
 
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-bs-toggle="collapse"
-        data-bs-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
 
@@ -40,6 +30,7 @@ const navItems = shallowRef([
   { path: "about-me", label: "Om mig" },
   { path: "projects", label: "Projekt" },
   { path: "resume", label: "CV" },
+  { path: "architecture", label: "Arkitektur" },
   { path: "contact", label: "Kontakta mig" },
 ]);
 
